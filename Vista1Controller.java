@@ -7,9 +7,9 @@ import javafx.fxml.FXML;
 public class Vista1Controller {
 
     /**
-     * Event handler fires when the user requests a new vista.
+     * Event handler fired when the user requests a new vista.
      *
-     * @param event the event the triggered the handler.
+     * @param event the event that triggered the handler.
      */
     @FXML
     void nextPane(ActionEvent event) {
