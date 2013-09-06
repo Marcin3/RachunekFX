@@ -15,11 +15,11 @@
 }
 
 #vista1 {
-    -fx-background-color: coral;
+    -fx-background-color: aliceblue;
 }
 
 #vista2 {
-    -fx-background-color: aliceblue;
+    -fx-background-color: coral;
 }
 
 .button {
